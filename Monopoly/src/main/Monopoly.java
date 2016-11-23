@@ -15,7 +15,7 @@ public class Monopoly {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // P
+        System.out.println("ggg");
     }
     
 }
